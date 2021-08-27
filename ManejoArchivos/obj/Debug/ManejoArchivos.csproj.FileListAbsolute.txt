@@ -1,0 +1,7 @@
+C:\Users\50370\source\repos\ManejoArchivos\ManejoArchivos\bin\Debug\ManejoArchivos.exe.config
+C:\Users\50370\source\repos\ManejoArchivos\ManejoArchivos\bin\Debug\ManejoArchivos.exe
+C:\Users\50370\source\repos\ManejoArchivos\ManejoArchivos\bin\Debug\ManejoArchivos.pdb
+C:\Users\50370\source\repos\ManejoArchivos\ManejoArchivos\obj\Debug\ManejoArchivos.csproj.AssemblyReference.cache
+C:\Users\50370\source\repos\ManejoArchivos\ManejoArchivos\obj\Debug\ManejoArchivos.csproj.CoreCompileInputs.cache
+C:\Users\50370\source\repos\ManejoArchivos\ManejoArchivos\obj\Debug\ManejoArchivos.exe
+C:\Users\50370\source\repos\ManejoArchivos\ManejoArchivos\obj\Debug\ManejoArchivos.pdb
