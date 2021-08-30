@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
 
 namespace manejoArchivos
@@ -159,5 +156,12 @@ namespace manejoArchivos
                 Console.WriteLine("El registro no se encontro!");
             }
         }
+
+        private static void hola()
+        {
+
+
+        }
+
     }
 }
